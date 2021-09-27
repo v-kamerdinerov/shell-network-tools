@@ -1,6 +1,8 @@
 FROM alpine:3.13
 MAINTAINER vlad.kamerdinerov@yandex.com
+
 EXPOSE 80
+
 # Install network tools
 RUN     apk update \
     &&  apk add bash bind-tools busybox-extras curl \
