@@ -1,5 +1,5 @@
 # shell-network-tools
-![main](https://github.com/v-kamerdinerov/shell-network-tools/workflows/main/badge.svg)
+![main](https://github.com/v-kamerdinerov/shell-network-tools/workflows/Default/badge.svg)
 
 Multitool for container network troubleshooting with shell.
 Based on [Praqma/Network-MultiToo](https://github.com/Praqma/Network-MultiTool) and [ttyd](https://github.com/tsl0922/ttyd).
