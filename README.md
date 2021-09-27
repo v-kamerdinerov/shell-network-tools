@@ -1,10 +1,10 @@
 # shell-network-tools
 ![main](https://github.com/v-kamerdinerov/shell-network-tools/workflows/Default/badge.svg)
 
-Multitool for container network troubleshooting with shell.
+Multitool for container network troubleshooting with web terminal.
 Based on [Praqma/Network-MultiToo](https://github.com/Praqma/Network-MultiTool) and [ttyd](https://github.com/tsl0922/ttyd).
 
-Contain ttyd is a simple command-line tool for sharing terminal over the web and a lots of tools for  container/network testing and troubleshooting. The main docker image is based on Alpine Linux.
+Contains web terminal (**ttyd**) and a lots of tools for container/network testing and troubleshooting. The main docker image is based on Alpine Linux.
 
 
 
