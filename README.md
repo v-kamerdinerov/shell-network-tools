@@ -34,7 +34,7 @@ Contains web terminal (**ttyd**) and a lots of tools for container/network testi
 * `/bin/bash` shell interpreter
 * ttyd web terminal (port 80)
 
-**Size:** 42 MB compressed
+**Size:** 63 MB compressed
 
 ### Docker:
 ```
