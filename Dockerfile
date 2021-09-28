@@ -7,7 +7,7 @@ EXPOSE 80
 RUN     apk update \
     &&  apk add bash bind-tools busybox-extras curl \
                 iproute2 iputils jq mtr \
-                net-tools nginx openssl \
+                net-tools openssl \
                 perl-net-telnet procps tcpdump wget
 # Add ttyd
 ADD https://github.com/tsl0922/ttyd/releases/download/1.6.3/ttyd.x86_64 /bin/ttyd
