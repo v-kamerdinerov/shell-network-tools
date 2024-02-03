@@ -3,7 +3,7 @@ FROM alpine:$ALPINE_VER
 
 MAINTAINER vlad.kamerdinerov@yandex.com
 
-ARG TTYD_VERSION=1.7.4
+ARG TTYD_VERSION=1.6.3
 ARG TTYD_URL=https://github.com/tsl0922/ttyd/releases/download/$TTYD_VERSION/ttyd.x86_64
 
 EXPOSE 80
