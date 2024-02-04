@@ -28,7 +28,7 @@ Contains web terminal (**ttyd**) and a lots of tools for container/network testi
 * traceroute, tracepath, mtr
 * netcat (nc), socat
 * ApacheBench (ab)
-* mysql & postgresql client
+* mysql (15.1 Distrib 10.11.6-MariaDB) & postgresql (16.1) client
 * jq
 * git
 * `/bin/bash` shell interpreter
